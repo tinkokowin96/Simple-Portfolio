@@ -21,7 +21,7 @@ For detailed explanation on how things work, check out the [documentation](https
 </br>
 </br>
 
-## Technologies used in the project
+## Technologies used in this project
 
 - **WebGL/ThreeJS**
 - **Typescript**
