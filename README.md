@@ -23,8 +23,6 @@ For detailed explanation on how things work, check out the [documentation](https
 
 ## Technologies used in the project
 
----
-
 - **WebGL/ThreeJS**
 - **Typescript**
 - **Vue/Nuxt**
